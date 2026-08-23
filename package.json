@@ -1,0 +1,6 @@
+{
+  "name": "node-cron-jobs-queue",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/scheduler.js"
+}
